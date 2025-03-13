@@ -23,20 +23,29 @@ public class Main {
         Student raj;   //raj has rno,name,marks as properties ---> Object: An instance of a class
 //        raj = new Student();
 
+        Student rajshree = new Student();
+        System.out.println(rajshree);
+        System.out.println(rajshree.marks);
+
+
+        rajshree.marks= 94;
+        System.out.println(rajshree.marks);
+
 
     }
 
 //    class --------> Logical construct
 //    object -------> Physical reality  : occupies space in the memory
 //    state of the object, identity of the object, behaviour of the object
-
-//    create a class
-    class Student{
-        int rno;
-        String name;
-        float marks;
-    }
     
 }
+
+//    create a class
+class Student{
+    int rno;
+    String name;
+    float marks;
+}
+
 
 
