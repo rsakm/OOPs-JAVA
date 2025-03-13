@@ -5,6 +5,8 @@ public class Human {
     String name;
     int salary;
     boolean married;
+
+//    // Static variable ---> universal for all objects of human class.
     static long population;
 
 

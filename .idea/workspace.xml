@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fa1cbb-6060-4d59-831b-ad505e1a2a11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/introduction/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduction/classes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduction/wrapperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops2/InnerClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops2/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops2_Singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops2_Singleton/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops2/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops2/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
