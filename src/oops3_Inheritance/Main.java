@@ -16,6 +16,11 @@ public class Main {
         Box box5 = new BoxWeight(2,4,7,9);
 
 ////      box5.weight; // We can't access weight even it has been initialized over in the constructor as 9.
+//        Reference Type (Box box):
+//        The reference type (Box) determines what members (fields/methods) are accessible at compile time.
+//        Since box is declared as Box, the compiler only knows about the members in the Box class — in this case, l, w, and h.
+//        The compiler has no idea that the object being referred to is actually a BoxWeight
+
         System.out.println(box5.width);
 
 //// There are many variables in both parent an dchild classes.

@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fa1cbb-6060-4d59-831b-ad505e1a2a11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops3_Inheritance/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops3_Inheritance/BoxColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops3_Inheritance/BoxPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops3_Inheritance/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops3_Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/ObjectPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops3_Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops3_Inheritance/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
