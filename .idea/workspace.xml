@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fa1cbb-6060-4d59-831b-ad505e1a2a11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oops5_AccessControls/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops5_AccessControls/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops5_AccessControls/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops5_AccessModifierTesting/NotInheritingA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops5_AccessModifierTesting/Subclass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops5_LangPackageJava/ObjectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_Abstraction/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_Abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_Abstraction/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_Abstraction/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/CdPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/NiceCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/PowerEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/extendDemo/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/extendDemo/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/extendDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/extendDemoII/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/extendDemoII/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/extendDemoII/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/interface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/nestedInterfaces/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,12 +37,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -39,14 +59,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/JAVA/Prep BootCamp/Codes/OOPS/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/JAVA/Prep BootCamp/Codes/OOPS/src/oops6_interface",
+    "onboarding.tips.debug.path": "D:/JAVA/Prep BootCamp/Codes/OOPS/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\Prep BootCamp\Codes\OOPS\src\oops6_interface" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
