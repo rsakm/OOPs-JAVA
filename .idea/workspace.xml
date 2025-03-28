@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fa1cbb-6060-4d59-831b-ad505e1a2a11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oops_Generics/ArrayList_Custom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_Generics/GenInterfaceUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_Generics/GenericArrayList_Custom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_Generics/Generic_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_Generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_Generics/WildCardExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_Generics/compare/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_Generics/compare/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops_LambdaFunctions/LambdaFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
