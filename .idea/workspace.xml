@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fa1cbb-6060-4d59-831b-ad505e1a2a11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oops_ExceptionHandling/CopyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_ExceptionHandling/DeepAndShallowCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_ExceptionHandling/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_ExceptionHandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_ExceptionHandling/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_objectCloning/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_objectCloning/MAin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/methodOverloading/AutomaticPromotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops3_Polymorphism/methodOverloading/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops7_Collections/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
