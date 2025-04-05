@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fa1cbb-6060-4d59-831b-ad505e1a2a11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oops_SuperKeyword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_SuperKeyword/usesOf_superkeyword/Use1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_SuperKeyword/usesOf_superkeyword/Use2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_SuperKeyword/usesOf_superkeyword/Use3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops_finalKeyword/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
