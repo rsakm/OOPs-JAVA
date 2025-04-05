@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fa1cbb-6060-4d59-831b-ad505e1a2a11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oops5_LangPackageJava/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops6_interface/I1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -42,6 +42,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/JAVA/Prep BootCamp/Codes/OOPS/src/oops6_interface&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/JAVA/Prep BootCamp/Codes/OOPS/src/Main.java&quot;,
