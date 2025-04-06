@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77fa1cbb-6060-4d59-831b-ad505e1a2a11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oops_staticKeyword/staticVariable/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_staticKeyword/staticVariable/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops_staticKeyword/staticVariable/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops_staticKeyword/staticMethod/RulesForStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops_staticKeyword/staticMethod/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,26 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JAVA\Prep BootCamp\Codes\OOPS\src\oops6_interface" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_staticKeyword.staticMethod.UseTest" />
+      <module name="OOPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops_staticKeyword.staticMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UseTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
